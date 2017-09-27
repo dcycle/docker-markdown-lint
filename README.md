@@ -1,3 +1,6 @@
+Docker Markdown Linter
+=====
+
 [![CircleCI](https://circleci.com/gh/dcycle/docker-markdown-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-markdown-lint)
 
 Lint Markdown with [markdownlint](https://github.com/DavidAnson/markdownlint).

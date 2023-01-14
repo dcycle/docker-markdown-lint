@@ -24,7 +24,7 @@ MAJORVERSION='2'
 VERSION='2.0'
 
 # Start by getting the latest version of the official node image
-docker pull node
+docker pull node:alpine
 
 # See https://github.com/dcycle/prepare-docker-buildx, for M1 native images.
 git clone https://github.com/dcycle/prepare-docker-buildx.git

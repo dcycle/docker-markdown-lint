@@ -9,7 +9,7 @@ For example:
 
     docker run --rm -v $(pwd)/example:/app/code dcycle/markdown-lint:2 \
         /app/code/markdown-file-with-errors.md
-    docker run --rm -v $(pwd)/example:/app/code dcycle/markdown-lint:2\
+    docker run --rm -v $(pwd)/example:/app/code dcycle/markdown-lint:2 \
         /app/code/markdown-file-no-errors.md
 
 By default the system will ignore long lines (80+ characters), but this can be overridden by running, for example:

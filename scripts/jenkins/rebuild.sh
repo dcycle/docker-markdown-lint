@@ -13,7 +13,7 @@ if [ -v "$DIGITALOCEAN_SSH_KEY" ]; then
 fi
 
 # Create a droplet
-DROPLET_NAME=docker-markdown
+DROPLET_NAME=docker-markdown-lint
 
 doctl compute droplet create "$DROPLET_NAME" --size 4gb --image ubuntu-20-04-x64 --ssh-keys "$DIGITALOCEAN_SSH_KEY"
 

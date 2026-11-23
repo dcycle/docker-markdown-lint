@@ -1,7 +1,7 @@
 Docker Markdown Linter
 =====
 
-[![CircleCI](https://circleci.com/gh/dcycle/docker-markdown-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-markdown-lint)
+[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Lint Markdown with [markdownlint](https://github.com/DavidAnson/markdownlint).
 

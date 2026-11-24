@@ -1,7 +1,7 @@
 Docker Markdown Linter
 =====
 
-[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-markdown-lint/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Lint Markdown with [markdownlint](https://github.com/DavidAnson/markdownlint).
 
